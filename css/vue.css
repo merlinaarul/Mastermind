@@ -1,0 +1,106 @@
+#window1 {
+	background-image: url("fond.png"); /* Chemin vers image */	
+	background-size: cover; /* Pour ajuster l'image à la taille de la fenêtre */
+}
+
+
+
+#fond_button{
+    background-image: url("start.png");
+    min-width: 50px; /* Définir une largeur minimale */
+    min-height: 50px; /* Définir une hauteur minimale */
+    border: none;
+    background-size: cover;
+    }
+    
+    
+#fullsize_button{
+    background-image: url("pleinecran.png");
+   
+    min-width: 35px; /* Définir une largeur minimale */
+    min-height: 160px; /* Définir une hauteur minimale */
+    background-size: cover;
+    background-color : rgb(249, 234, 195);
+    border: none;
+    
+    
+    }
+    
+
+    
+#quitter_button{
+    background-image: url("quitter.png");
+    min-width:  80px; /* Définir une largeur minimale */
+    min-height: 160px; /* Définir une hauteur minimale */
+    border: none;
+    background-size: cover;
+    background-color : rgb(249, 234, 195);
+   }
+   
+  
+   
+#aide_button{
+    background-image: url("aide.png");
+    min-width:  100px; /* Définir une largeur minimale */
+    min-height: 160px; /* Définir une hauteur minimale */
+    border: none;
+    background-size: cover;
+    background-color : rgb(249, 234, 195);
+   }
+  
+  
+   
+#return_button{
+    background-image: url("recommencer.png");
+    min-width:  70px; /* Définir une largeur minimale */
+    min-height: 160px; /* Définir une hauteur minimale */
+    border: none;
+    background-size: cover;
+    background-color : rgb(249, 234, 195);
+   } 
+   
+   
+#pastel_button{
+    background-color : rgb(249, 234, 195);
+    
+   }
+      
+   
+#rouge_button {
+    background-color: red;
+    border: none;
+}
+
+#vert_button {
+    background-color: green;
+    border: none;
+}
+
+#bleu_button {
+    background-color: blue;
+    border: none;
+}
+
+#yellow_button {
+    background-color: yellow;
+}
+
+#orange_button {
+    background-color: orange;
+    border: none;
+}
+
+#purple_button {
+    background-color: purple;
+    border: none;
+}
+
+#black_button {
+    background-color: black;
+    border: none;
+}
+
+#white_button {
+    background-color: white;
+    border: none;
+}
